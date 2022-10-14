@@ -572,4 +572,12 @@ span.Chart {
         margin-left: 22px;
         width: 80%;
     }
+
+    .FlowsList{
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        /* width: 444px; */
+        color: aqua;
+    }
 }
