@@ -7,7 +7,7 @@ function Flows() {
         display:'flex',
         justifyContent: 'space-between',
         alignItems: 'baseline',
-        width: '444px'
+        // width: '444px'
     }
     const FlowsListH4 = {
           fontWeight:'bold',
@@ -24,7 +24,7 @@ function Flows() {
         
         <>
         <div className="flowlistDiv">
-               <div  style={FlowsList}>
+               <div style={FlowsList} className="FlowsList">
                     <div className="listFlow">
                           <h2>Flows list  </h2>
                           <span><FaCaretDown/></span>
