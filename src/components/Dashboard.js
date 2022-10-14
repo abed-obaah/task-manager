@@ -40,8 +40,8 @@ function About() {
                               <img  style={imageStyle} src={require("../images/team-2.jpg")} alt="images" />
                         </div>
                   </div>
-                  <div className='searchBtn'>
-                     {/* <span><FaSearch/></span> */}
+                  <div className='box'>
+                     <span><FaSearch/></span>
                      <input className='searchBtnInput' type='text' placeholder='Try to find..' />
                   </div>
                   <div className='tsk-h1'>
