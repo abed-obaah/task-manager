@@ -563,6 +563,9 @@ span.Chart {
 /* media queries */
 
 @media (max-width: 768px){
+     body{
+        overflow-y: hidden;
+    }
     .userheader h1{
         /* color: aqua; */
         margin-left: 20px;
