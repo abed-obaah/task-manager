@@ -15,7 +15,7 @@ function Card() {
   
 
     const cardWraper ={
-        marginLeft:'27px',
+//         marginLeft:'27px',
         width:'400px',
         display:'flex',
         justifyContent: 'space-evenly',
