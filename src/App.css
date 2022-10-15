@@ -564,8 +564,9 @@ span.Chart {
 
 @media (max-width: 768px){
      body{
-        overflow-y: hidden;
+        overflow-x: hidden;
     }
+    
     .userheader h1{
         /* color: aqua; */
         margin-left: 20px;
@@ -581,6 +582,6 @@ span.Chart {
         justify-content: space-between;
         align-items: baseline;
         /* width: 444px; */
-        color: aqua;
+        color: blue;
     }
 }
