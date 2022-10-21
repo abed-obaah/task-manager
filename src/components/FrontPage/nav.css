@@ -63,16 +63,18 @@ button{
         list-style: none;
         box-shadow: rgba(50, 50, 93, 0.23) 0 30px 30px -20px;
         left: 0;
-        top: 10%;
+/*         top: 10%; */
+         top: 7%;
         transition: all 0.5s ease-in-out;
 /*         width: 100%; */
-        width:92%;
+        width:91%;
         background-color: white;
     }
 
     ul li{
         padding: 32px;
-        width: 100%;
+/*         width: 100%; */
+        width: 50%;
         transition: all 0.5s ease-in-out;
         /* text-align: center; */
 
